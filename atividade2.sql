@@ -16,6 +16,9 @@ Faça um select onde traga todos os Produtos de uma categoria específica (exemp
 salve as querys para cada uma dos requisitos o exercício em um arquivo .SQL ou texto e coloque no seu GitHuB pessoal e compartilhe esta
  atividade.*/
 
+create database tb_cidade_frutas;
+
+use tb_cidade_frutas;
  
  create table tb_categoria(
  id bigint auto_increment,
